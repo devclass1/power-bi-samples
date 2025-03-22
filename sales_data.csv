@@ -1,0 +1,11 @@
+Region,Category,Sales_Amount,Sales_Quantity
+North,Electronics,5000,50
+South,Clothing,3000,30
+East,Furniture,7000,70
+West,Electronics,4000,40
+North,Clothing,6000,60
+South,Furniture,5000,50
+East,Electronics,8000,80
+West,Clothing,4500,45
+North,Furniture,7500,75
+South,Electronics,6500,65
